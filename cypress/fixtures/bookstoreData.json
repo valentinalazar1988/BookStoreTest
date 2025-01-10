@@ -1,0 +1,12 @@
+{
+    "bookTitle": "Micul print",
+    "billingDetails": {
+    "firstName": "Valentina",
+    "lastName": "Lazar",
+    "address": "Strada Exemplu, nr. 123",
+    "city": "Sibiu",
+    "postcode": "550000",
+    "phone": "0712345678",
+    "email": "aaa@gmail.com"
+  }
+}
